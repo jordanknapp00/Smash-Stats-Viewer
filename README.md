@@ -13,7 +13,3 @@ Individual fighters within the system can be looked up, and their stats for each
 ### Sort by
 
 You can also sort all fighters in the system by various metrics, including a fighter's overall winrate across all players, a fighter's winrate with an individual player, and the total number of battles that a fighter has appeared in. Finally, you can see each *player's* overall winrate as well.
-
-# License
-
-This project uses the [FPA General Code License](https://about.fairfieldprogramming.org/licenses/code/). In short, you can do whatever you want with this code for non-commerical purposes. In order to use this code for commerical purposes, you must make substantial changes to it. Reorganizing the logic does not count as a substantial change. See [LICENSE.md](LICENSE.md) or the link above for more details.
